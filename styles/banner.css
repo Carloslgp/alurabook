@@ -29,7 +29,6 @@
     color: var(--branco);
     background: url(../img/lupa.svg);
     background-repeat: no-repeat;
-    background-position: 1em;
 }
 
 @media screen and (min-width: 1024px) {
